@@ -1,3 +1,5 @@
+Gebruiker
+Jasper Leijten - jasper_leijten - jsa.leijten@student.avans.nl
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
